@@ -13,4 +13,4 @@ Need a secure spot for some police training? Look no further. This script contai
 
 ## Credits:
 *  Paramedic - Used snippit from [randol_grandma](https://github.com/Randolio/randol_grandma)
-*  Location - Modified version of this [MLO](https://www.gta5-mods.com/maps/training-facility-in-fort-zancudo)
+*  Location - Modified version of this [MLO](https://www.gta5-mods.com/maps/training-facility-in-fort-zancudo) (included in stream folder)
