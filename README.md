@@ -1,18 +1,15 @@
-# Meth Run - Developed by KevinGirardx & Project Sloth
+## GLDNRMZ-pdtraining
 
-# Preview 
+Need a secure spot for some police training? Look no further. This script contains:
+*  Spawinging of some criminals to shoot for practice.
+*  A paramedic to revive you if you're gunned down.
 
-https://streamable.com/fwd9r8
+## ADD
+*  Add an armory to this location vector3(-2012.86, 3163.91, 32.81)
+*  Add a teleport or elevator to the location
 
-# Add to qb-core
-Items to add to qb-core>shared>items.lua
-```
-["securitycase"] =        {["name"] = "securitycase",       ["label"] = "Security Case",        ["weight"] = 1000, ["type"] = "item", ["image"] = "securitycase.png", ["unique"] = true, ["useable"] = false, ['shouldClose'] = false, ["combinable"] = nil, ["description"] = "Security case with a timer lock"},
-["meth_cured"] =          {["name"] = "meth_cured",         ["label"] = "Ice",                  ["weight"] = 100, ["type"] = "item", ["image"] = "meth_cured.png", ["unique"] = false, ["useable"] = false, ['shouldClose'] = false, ["combinable"] = nil, ["description"] = "Crystal meth"},
-["casekey"] =             {["name"] = "casekey",            ["label"] = "Case Key",             ["weight"] = 0, ["type"] = "item", ["image"] = "key1.png", ["unique"] = true, ["useable"] = false, ['shouldClose'] = false, ["combinable"] = nil, ["description"] = "Key for a case"},
-
-```
+Modified version of this mlo
+https://www.gta5-mods.com/maps/training-facility-in-fort-zancudo
 
 # Dependencies
-* Memory Game - https://github.com/NathanERP/memorygame_2
-* qb-target - https://github.com/BerkieBb/qb-target
+* qb-target(https://github.com/BerkieBb/qb-target)
