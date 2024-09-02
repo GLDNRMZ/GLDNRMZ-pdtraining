@@ -7,6 +7,7 @@ Need a secure spot for some police training? Look no further. This script contai
 ## Add:
 *  Add to qb-policejob>config.lua armory vector3(-2012.86, 3163.91, 32.81)
 *  Add a teleport or elevator to the location
+*  Move MLO from stream folder to your [maps] folder
 
 ## Dependencies:
 * [qb-target](https://github.com/BerkieBb/qb-target)
