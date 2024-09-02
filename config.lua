@@ -3,16 +3,8 @@ Config = {}
 Config.CheckDead = true -- Medic to check if dead before healing
 Config.Coords = vector4(-2039.435, 3170.976, 31.81, 334.201) -- Medic Coords
 
-Config.MinimumMethJobPolice = 0
-
-Config.StartModel = "s_m_y_swat_01" -- Starting Ped
+Config.StartModel = "s_m_y_swat_01" -- Starting Training Ped
 Config.StartCoords = vector4(-2020.295, 3167.724, 31.81, 125.796)
-
-Config.Weapons = {
-    "WEAPON_PISTOL",
-    -- "WEAPON_ASSAULTRIFLE",
-    -- "WEAPON_SMG"
-}
 
 Config.GuardPeds = { -- guard ped list (you can add new)
     { coords = vector4(-2003.85, 3179.12, 32.81, 37.31), model = 'g_m_y_ballaeast_01'},
