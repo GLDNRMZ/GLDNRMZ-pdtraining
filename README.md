@@ -5,7 +5,7 @@ Need a secure spot for some police training? Look no further. This script contai
 *  A paramedic to revive you if you're gunned down.
 
 ## Add:
-*  Add to qb-policejob armory vector3(-2012.86, 3163.91, 32.81)
+*  Add to qb-policejob>config.lua armory vector3(-2012.86, 3163.91, 32.81)
 *  Add a teleport or elevator to the location
 
 ## Dependencies:
