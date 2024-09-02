@@ -1,11 +1,4 @@
 local QBCore = exports['qb-core']:GetCoreObject()
-local CurrentCops = 0
-local methguards = {}
-
-RegisterNetEvent('police:SetCopCount')
-AddEventHandler('police:SetCopCount', function(amount)
-    CurrentCops = amount
-end)
 
 AddEventHandler('onResourceStart', function(resourceName)
     if GetCurrentResourceName() == resourceName then
