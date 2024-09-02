@@ -1,7 +1,7 @@
 ## GLDNRMZ-pdtraining
 
 Need a secure spot for some police training? Look no further. This script contains:
-*  Spawinging of some criminals to shoot for practice.
+*  Spawnging of some criminals to shoot for practice.
 *  A paramedic to revive you if you're gunned down.
 
 ## Add:
